@@ -1328,3 +1328,62 @@ https://github.com/jiangqizheng/BlueSea   ，安装Chrome扩展很简单，之�
 如果需要调整可以修改设置。
 ![image.png](https://upload-images.jianshu.io/upload_images/23152173-37636bbe92bde494.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### 网易云音乐chrome扩展
+之前分享过很多chrome扩展了 [那些有趣/实用的 Chrome 扩展神器系列（五）](https://mp.weixin.qq.com/s/HpWuKUkTvct8zQ0jAMWOQw)，这个扩展可以能够收听网易云音乐VIP或变灰歌曲，扩展地址https://chrome.google.com/webstore/detail/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/ekmamdknmdolmmjbgpmnkiobcnihdhhf，最近更新时间2021年11月8日，安装方法见之前文章[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w) 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-867e52957084de6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+网页版登陆账号还可以收听和管理你的歌单，比如这首周杰伦的《你听得到》虽然显示灰色但也能听。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-767c348a09574ac1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### chrome扩展easySearch  
+这个扩展可以一键搜索全网资源，包括磁力种子，影视，网盘，图书和音乐等，扩展地址https://chrome.google.com/webstore/detail/easysearch/igieognglkjfefoldlaachcoimjecojk ，如何安装扩展见之前文章[上不了谷歌如何安装 Chrome 扩展？](https://mp.weixin.qq.com/s/xC9K_z7zpmAIEzUK6s1x3w) 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-b9c97ec5099c7f27.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 网易云音乐
+这个扩展在之前文章分享过[分享几个音乐神器 APP，免费听全网音乐，一键解锁网易云音乐变灰歌曲](https://mp.weixin.qq.com/s/g7i9DTqeNt70gfa8brtS6Q)
+它能够收听网易云音乐VIP或变灰歌曲，扩展地址https://chrome.google.com/webstore/detail/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/ekmamdknmdolmmjbgpmnkiobcnihdhhf 
+
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-867e52957084de6b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+网页版登陆账号还可以收听和管理你的网易云音乐歌单，比如周杰伦的这首《你听得到》虽然显示灰色但也能听。
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-767c348a09574ac1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 终结内容农场
+平常使用搜索引擎的时候经常会发现些垃圾seo网站 ，打开后都是从其他网站拼凑的内容，这个扩展可以标示内容农场链接，防止误入内容农场网站，并封锁内容农场的广告与恶意程序，扩展地址https://chrome.google.com/webstore/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-081b0911075e788a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-ad5ebcdb982bb869.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+### 搜图助手
+之前分享过 [如何通过电影截图找到电影](https://mp.weixin.qq.com/s/8MIGBAa3vXGUd8s5xGzIDA) ，有了这个扩展搜图方便多了，它集成了谷歌，百度，yandex，bing等搜索引擎，支持在淘宝，1688等电商网站搜相似产品，而且可以一键提取网页所有图片并下载，扩展地址https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-20f02263bee8871e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### 图片另存为jpg/png
+现在公众号文章的图片都是webp格式，这个扩展就可以把webp保存为jpg或者png，扩展地址 https://chrome.google.com/webstore/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd/
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-bf6482ee2ddd6e83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### 视频下载助手
+之前分享过很多视频下载工具 [又一视频下载神器，批量下载腾讯/优酷/爱奇艺/b站/抖音视频](https://mp.weixin.qq.com/s/LajCXCBUN-V1PKZ40SXmqA) [视频下载神器：支持腾讯/优酷/爱奇艺/b站/微博等全网视频](https://mp.weixin.qq.com/s/n9ddxx6Zu5hC7cqEXRnMOg)，这个扩展也支持下载主流网站的视频和音频，包括微博，b站，知乎等网站，扩展地址https://chrome.google.com/webstore/detail/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/gnnfgamcecifdmmdpbppjhanfllffmdn/ ，比如这个微博视频https://weibo.com/tv/show/1034:4714775360503906?from=old_pc_videoshow
+https://tutorial.pictureknow.com/book?id=cbaee24c11c64cac9d5e384e7814a716
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-f413123cdbd5ee7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+类似的还有这个网页视频嗅探下载插件Video Downloader，能够帮助用户搜索网页上的视频内容并下载，支持各大主流视频网站，下载速度非常快https://chrome.google.com/webstore/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil  
+
+### 伽马影迷
+之前分享过[2020 豆瓣电影榜单出炉，直接在豆瓣上看电影吧](https://mp.weixin.qq.com/s/BY4sXU8MkPBbWzGzACLAXQ) [过年无聊？来b站看豆瓣电影 Top 250](https://mp.weixin.qq.com/s/HrWi6_4h5LM1EHhZ4a3q3A) ，这扩展可以在豆瓣、IMDb、烂番茄、B站显示电影评分、解说和观看链接等信息https://movie.douban.com/subject/2124724/ ，扩展地址https://chrome.google.com/webstore/detail/jwks123/ehmoihnjgkdimihkhokkmfjdgomohjgm https://greasyfork.org/en/scripts/404243-ymdmovieratings
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-855dd26964325902.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+### 在线office
+这个Chrome扩展支持在线编辑 Word、Excel、PPT 文件，几乎可以取代 Microsoft Office，WPS 等本地软件，支持的文件格式包含doc、docx、xls、xlsx、ppt、pptx ，只需要拖动文件到 Chrome 浏览器即可，有点类似腾讯文档，扩展地址https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj/ 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-9d5711db599359c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### SimpleUndoClose 
+这个扩展可以帮你记录关闭的网页标签，最多9999+个，一键找回关闭过的标签，扩展地址https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-6e4c5e7a2449ed0a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### json预览
+现在接口几乎都返回JSON格式的数据，不过不方便预览，这个扩展可以很直观的查看数据，层次分明， 比如之前分享的查看b站账户硬币数的接口 [每天自动签到b站快速升级LV6](https://mp.weixin.qq.com/s/vLppcR4imK9WWaga7XLDrA) ，http://api.bilibili.com/x/space/myinfo 扩展地https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-c332940fe10fad1a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### hostadmin
+之前文章[分享几个 Windows 实用技巧](https://mp.weixin.qq.com/s/vPXae_ylqPTTNKoGMN__gg) 分享过通过修改hosts访问GitHub ，这个扩展可以很方便的管理hosts文件，扩展地址 https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg 
+![image.png](https://upload-images.jianshu.io/upload_images/23152173-146ed8d57f03dfd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
